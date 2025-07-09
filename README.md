@@ -4,7 +4,7 @@
 
 🌟 Currently learning: **Python**, **Git**, and open source basics  
 📚 Exploring how to connect **biology** with **technology**  
-📫 Reach me at: iffat.your.email@gmail.com  
+📫 Reach me at: iffatjaved245@gmail.com 
 ✨ Fun fact: I used to write lab reports, now I'm learning to debug code! 😄
 
 ---
