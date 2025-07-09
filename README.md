@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Iffi
 
-<!--
-**iffat245/iffat245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Biology Grad | 🌱 Learning to Code .
 
-Here are some ideas to get you started:
+🌟 Currently learning: **Python**, **Git**, and open source basics  
+📚 Exploring how to connect **biology** with **technology**  
+📫 Reach me at: iffat.your.email@gmail.com  
+✨ Fun fact: I used to write lab reports, now I'm learning to debug code! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills I'm Exploring
+
+- 🐍 Python (beginner level)  
+- 🔧 Git & GitHub (just getting started)  
+- 💡 Open source collaboration (first steps!)
+
+---
+
+## 💻 Projects & Learning Journey
+
+- 🌱 Learning how to contribute to beginner-friendly open source projects  
+- 🧪 Practicing small coding tasks and project workflows  
+- 🔬 Finding ways to connect **biology** with **data science tools**
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Make 3 real open-source contributions  
+- ✅ Build my first mini bioinformatics project  
+- ✅ Document my coding journey with honesty
+
+---
+
+> “Every coder was once a beginner. I just happen to be a beginner with a microscope.” 🔬💻
+
+---
+
+🌸 *Thanks for visiting my profile! Let’s learn and grow together.*
